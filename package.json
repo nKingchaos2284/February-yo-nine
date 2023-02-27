@@ -1,0 +1,24 @@
+{
+  "name": "february-yo-nine",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nKingchaos2284/February-yo-nine.git"
+  },
+  "author": "JM Cabrera Elias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nKingchaos2284/February-yo-nine/issues"
+  },
+  "homepage": "https://github.com/nKingchaos2284/February-yo-nine#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "nodejs": "^0.0.0",
+    "npm": "^9.5.1"
+  }
+}
